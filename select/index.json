@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "泡沫のアイオーン",
+  "base_artist": "荒木比奈 (CV: 田辺留依)",
+  "createdAt": "2026-03-01T01:18:22.114959Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡沫のアイオーン",
+      "artist": "荒木比奈(田辺留依)",
+      "has_synced": false,
+      "path": "select/pl_01_泡沫のアイオーン_荒木比奈(田辺留依).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "泡沫のアイオーン",
+      "artist": "荒木比奈(田辺留依)",
+      "has_synced": false,
+      "path": "select/pl_02_泡沫のアイオーン_荒木比奈(田辺留依).txt"
+    }
+  ]
+}
